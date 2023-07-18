@@ -1,2 +1,6 @@
 - name: create-json
+    id: create-json-1
   uses: jsdaniell/create-json@v1.2.2
+  with:
+  name: "Krimson-wallpapers.json"
+        json: '{"name":"jsdaniell", "url":"mypass"}'
