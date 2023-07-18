@@ -1,2 +1,0 @@
-- name: create-json
-  uses: jsdaniell/create-json@v1.2.2
